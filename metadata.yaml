@@ -1,0 +1,25 @@
+_repo: The-Library-of-Work-and-Play--Working-in-Metals_45004
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45004-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sleffel, Charles Conrad
+    gutenberg_agent_id: '43030'
+    url: http://www.gutenberg.org/2009/agents/43030
+description: ''
+gutenberg_issued: '2014-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Library of Work and Play
+subjects:
+- !lcsh 'Metal-work'
+- !lcc 'TT'
+title: 'The Library of Work and Play: Working in Metals'
+url: http://www.gutenberg.org/ebooks/45004
